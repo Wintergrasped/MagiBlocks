@@ -1,0 +1,5 @@
+name: WintersChairProtection
+version: 1.0
+description: WintersChairProtection
+author: Wintergrasped
+main: net.chair.wmcsn.winter.MainClass
